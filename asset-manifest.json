@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.712014aa.css",
+    "main.js": "/static/js/main.5161467b.js",
+    "static/media/Background1.jpg": "/static/media/Background1.bc6478c9d34e5283e18d.jpg",
+    "static/media/Background.jpg": "/static/media/Background.e09c13fb104eafb241c9.jpg",
+    "static/media/Wigrum-Medium.otf": "/static/media/Wigrum-Medium.f78990b92884cd382dd2.otf",
+    "index.html": "/index.html",
+    "main.712014aa.css.map": "/static/css/main.712014aa.css.map",
+    "main.5161467b.js.map": "/static/js/main.5161467b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.712014aa.css",
+    "static/js/main.5161467b.js"
+  ]
+}
